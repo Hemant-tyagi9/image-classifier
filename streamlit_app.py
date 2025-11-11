@@ -1,6 +1,6 @@
-import streamlit as st # type: ignore
-from transformers import pipeline # type: ignore
-from PIL import Image #type: ignore
+import streamlit as st
+from transformers import pipeline
+from PIL import Image
 
 st.set_page_config(page_title="AI that can see - Image Classification")
 st.title("AI that can see - Image Classification")

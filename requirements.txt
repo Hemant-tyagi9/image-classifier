@@ -1,1 +1,6 @@
 streamlit
+gradio
+transformers
+torch
+torchvision
+pillow
